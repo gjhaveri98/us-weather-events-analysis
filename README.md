@@ -6,7 +6,7 @@ The Devpost for this project can be found [here](https://devpost.com/software/us
 ## Data Overview
 This [data set](https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events/data) contains information on weather events in the US spanning multiple states and cities, sourced from various airport weather stations. The weather events span January 2016 to December 2022 and are quite varied including snow, storms, and other precipitation.
 ## Usage
-- First, download the data and the .ipynb file.
+- First, download the .ipynb file and the data from the link provided above.
 - Set up the appropriate environment to run a Jupyter Notebook file and ensure you have the proper versions of the required libraries.
 - Finally, hit "Run All" to execute the analysis and view all output. 
 ## Summary
